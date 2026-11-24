@@ -1,5 +1,7 @@
 <div align="center">
 
+# Hello, I'm Omar Bateesha
+
 <img src="./assets/welcome.svg" alt="Welcome to my GitHub profile" width="540">
 
 <br>
