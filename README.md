@@ -26,10 +26,10 @@ I'm Omar Mohamed, a student from Alexandria, Egypt, interested in web developmen
 
 I work on **[Ather](https://github.com/omar-mohamed67/Ather)**, an Arabic platform for managing lessons and students, with interactive learning games, a Quran section, and a digital whiteboard.
 
-I enjoy turning useful ideas into clear, engaging experiences while developing my skills in Python, JavaScript, CSS, C++, Git, and HTML.
+I enjoy turning useful ideas into clear, engaging experiences while developing my skills in Python, JavaScript, CSS, C++, Git, GitHub, and HTML.
 
 <br>
 
 ### Languages & Tools:
 
-<img src="https://skillicons.dev/icons?i=py,js,css,cpp,git,html&amp;theme=dark" alt="Python, JavaScript, CSS, C++, Git, HTML">
+<img src="https://skillicons.dev/icons?i=py,js,css,cpp,git,github,html&amp;theme=dark" alt="Python, JavaScript, CSS, C++, Git, GitHub, HTML">
