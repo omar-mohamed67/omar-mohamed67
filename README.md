@@ -6,12 +6,6 @@
 
 <br>
 
-### "Make it work, make it right, make it fast."
-
-**- Kent Beck -**
-
-<br>
-
 <img src="https://streak-stats.demolab.com/?user=omar-mohamed67&amp;theme=dark&amp;background=14121E&amp;border=D6D2DC&amp;stroke=88818F&amp;ring=FF2D8D&amp;fire=FF2D8D&amp;currStreakNum=FACC15&amp;sideNums=FF2D8D&amp;currStreakLabel=FACC15&amp;sideLabels=FF2D8D&amp;dates=A9F1F2&amp;card_width=495&amp;card_height=195&amp;timezone=Africa%2FCairo" alt="GitHub contribution and streak statistics" width="495">
 
 </div>
