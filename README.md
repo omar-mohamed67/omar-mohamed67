@@ -1,3 +1,5 @@
+![67 above two open hands](./assets/67-banner.png)
+
 <div align="center">
 
 # Hello, I'm Omar Batisha
