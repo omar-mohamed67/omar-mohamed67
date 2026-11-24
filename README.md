@@ -27,3 +27,21 @@ I'm Omar Mohamed, a student from Alexandria, Egypt, interested in web developmen
 I work on **[Ather](https://github.com/omar-mohamed67/Ather)**, an Arabic platform for managing lessons and students, with interactive learning games, a Quran section, and a digital whiteboard.
 
 I enjoy turning useful ideas into clear, engaging experiences while developing my skills in JavaScript, HTML, CSS, Node.js, PostgreSQL, and visual storytelling.
+
+<br>
+
+### Currently Exploring:
+
+<img src="https://skillicons.dev/icons?i=kafka,aws,react,rabbitmq&amp;theme=dark" alt="Kafka, AWS, React, RabbitMQ">
+
+<br><br>
+
+### Development Tools:
+
+<img src="https://skillicons.dev/icons?i=idea,vscode,git,github,postman,linux,docker&amp;theme=dark" alt="IntelliJ IDEA, VS Code, Git, GitHub, Postman, Linux, Docker">
+
+<br><br>
+
+### Familiar With:
+
+<img src="https://skillicons.dev/icons?i=cpp,py,react&amp;theme=dark" alt="C++, Python, React">
